@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "https-tjguna.github.io-"
+  "defaultProject": "https-tjguna.github.io-",
+  "cli": {
+    "analytics": "7e0008c8-d206-45e5-bdb6-6e979447e641"
+  }
 }
