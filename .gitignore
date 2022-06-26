@@ -1,0 +1,6 @@
+.DS_STORE
+
+/bazel-out
+/integration/bazel/bazel-*
+*.log
+node_modules
